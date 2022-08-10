@@ -1,4 +1,4 @@
-**How to Import and Use Slicer Profiles in Cura and Prusaslicer**
+**How to Import Slicer Profiles in Cura and Prusaslicer**
 
 **IN CURA:**
 
